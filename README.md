@@ -44,4 +44,4 @@ If you would like to learn how to compile these toolchains, please give [this RE
 
 ## Questions?
 
-If you have any questions or issues, please open an issue on this repo or the [build-tools-gcc](https://github.com/nathanchance/build-tools--gcc) repo OR make a post in [the XDA thread](https://forum.xda-developers.com/android/development/toolchains-gnu-linaro-5th-2017-t3606941) and I'll do my best to assist you.
+If you have any questions or issues, please open an issue on this repo or the [build-tools-gcc](https://github.com/nathanchance/build-tools-gcc) repo OR make a post in [the XDA thread](https://forum.xda-developers.com/android/development/toolchains-gnu-linaro-5th-2017-t3606941) and I'll do my best to assist you.
