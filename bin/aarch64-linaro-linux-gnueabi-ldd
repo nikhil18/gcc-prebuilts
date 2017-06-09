@@ -2,7 +2,7 @@
 
 # NON-CONFIGURABLE STUFF!
 export LC_ALL=C
-version="crosstool-ng-1.23.0-50-g259173bb"
+version="crosstool-ng-1.23.0-73-ga12374cd"
 bits="64"
 sed="${SED:-sed}"
 grep="${GREP:-grep}"
