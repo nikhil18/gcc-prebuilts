@@ -1,1 +1,0 @@
-../../aarch64-linaro-linux-gnueabi/sysroot/lib64/libstdc++.so.6.0.23-gdb.py
