@@ -7,7 +7,7 @@ OUTPUT_FORMAT("elf32-littleaarch64", "elf32-bigaarch64",
 	      "elf32-littleaarch64")
 OUTPUT_ARCH(aarch64:ilp32)
 ENTRY(_start)
-SEARCH_DIR("=/home/nathan/Toolchains/aarch64-linaro-linux-gnu-7.x/aarch64-linaro-linux-gnu/lib");
+SEARCH_DIR("=/home/nathan/Toolchains/linaro-7.x/aarch64-linaro-linux-gnu/lib");
 SECTIONS
 {
   /* Read-only sections, merged into text segment: */
