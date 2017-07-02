@@ -19,8 +19,8 @@ import gdb
 import os
 import os.path
 
-pythondir = '/home/nathan/Toolchains/gcc-build/out/arm-linaro-linux-gnueabi-7.x/share/gcc-7.1.1/python'
-libdir = '/home/nathan/Toolchains/gcc-build/out/arm-linaro-linux-gnueabi-7.x/arm-linaro-linux-gnueabi/lib'
+pythondir = '/home/nathan/Toolchains/gcc-build/out/arm-linaro-7.x/share/gcc-7.1.1/python'
+libdir = '/home/nathan/Toolchains/gcc-build/out/arm-linaro-7.x/arm-linaro-linux-gnueabi/lib'
 
 # This file might be loaded when there is no current objfile.  This
 # can happen if the user loads it manually.  In this case we don't
